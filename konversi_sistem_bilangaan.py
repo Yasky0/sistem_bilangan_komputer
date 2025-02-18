@@ -65,6 +65,3 @@ elif tipe_bilangan == '4' or tipe_bilangan == 'hexadesimal':
 
 else:
     print("Masukan data dengan benarrrrrr!")
-    
-
-print("Mantap!")
