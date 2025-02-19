@@ -1,7 +1,7 @@
 import numpy as np
 from PackageKonversiBilangan import konversi_desimal, konversi_biner, konversi_oktal, konversi_hexsadesimal
 
-# Display
+# Tampilan
 
 print('''
 =============== KONVERSI SISTEM BILANGAN"===============
@@ -66,4 +66,4 @@ elif tipe_bilangan == '4' or tipe_bilangan == 'hexadesimal':
 else:
     print("Masukan data dengan benar!")
     
-print("Selesai!")
+print("SELESAI!")
